@@ -7,8 +7,8 @@ git config user.name jhoffmann14
 git config user.emial jhoffmann14@my.wctc.edu
 ----------pushing work up to git hub--------------------
 git add .
-git commit -, "first commit"
-git remote add origin (HTTPS).git
+git commit -m "(update status)"
 ---------------------------------------------------------
-git push origin master
+git remote add origin (HTTPS).git
+git push origin master - have to repeat when pushing
 (login)

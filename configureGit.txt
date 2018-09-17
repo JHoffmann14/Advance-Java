@@ -1,0 +1,14 @@
+git --version
+git init Labs
+cd Labs
+dir
+echo > readme.md
+git config user.name jhoffmann14
+git config user.emial jhoffmann14@my.wctc.edu
+----------pushing work up to git hub--------------------
+git add .
+git commit -, "first commit"
+git remote add origin (HTTPS).git
+---------------------------------------------------------
+git push origin master
+(login)

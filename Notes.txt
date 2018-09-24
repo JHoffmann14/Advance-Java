@@ -1,0 +1,10 @@
+Rules
+#1. Constants are public, final & static
+#2. 
+
+
+Local variable - variable within a method, once the method is finished the variable dissapears
+Instance Variable - 
+Class Variable - a static variable 
+
+project 1 - reorder the csv file alphabetically

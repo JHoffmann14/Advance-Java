@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class main {
@@ -11,6 +12,8 @@ public class main {
       //  String line;
         String[] words;
         String[] words2;
+        ArrayList<String> Countries = new ArrayList<String>();
+        ArrayList<String> items = new ArrayList<String>();
         int[] nums = new int[2];
       //  String line = stuff.fileReadLine();
         System.out.format("%-18s %6s %6s\n", "Country", "Cities", "Stuff");

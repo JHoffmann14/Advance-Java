@@ -10,3 +10,12 @@ Class Variable - a static variable
 project 1 - reorder the csv file alphabetically
 
 List vs Set - List is in order, Set is not, set cannot have duplicates, a list can
+
+classes for project 2
+garage class - main
+kiosk
+Ticket
+
+input and output in own classes
+validate strings(length and null)
+composition over inheritence

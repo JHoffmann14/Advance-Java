@@ -19,3 +19,5 @@ Ticket
 input and output in own classes
 validate strings(length and null)
 composition over inheritence
+
+Classes should have a "has a" relationship nto a "is a" relationship

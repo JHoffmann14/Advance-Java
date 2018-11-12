@@ -2,45 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f86b5aa3-bca6-4e5f-8d2f-4d0c9bbdf813" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InheritanceDangers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/MuteDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example1/StartProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example2/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example2/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example2/StartProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example3/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example3/Labrador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/example3/StartProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/InheritanceDangers.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/MuteDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/StartProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Labs/InheritanceDangers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Labs/InheritanceDangers/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Workable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/LabDIP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/Startup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HourlyPlusIncentiveEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/Startup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HourlyPlusIncentiveEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/Startup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Workable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Workable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab1/HRService$WageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HRService$WageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/BaggageServiceTipCalculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/BaggageServiceTipCalculator$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/FoodServiceTipCalculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/FoodServiceTipCalculator$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/Startup$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Labs.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +121,9 @@
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -165,7 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,12 +209,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540231408180" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../InheritanceDangers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IndependentCopy" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -292,7 +313,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="775" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51805335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53532183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,35 +346,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../InheritanceDangers/InheritanceDangers/src/example1/Cat.java" />
-    <entry file="file://$PROJECT_DIR$/src/example2/Animal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example3/Dog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example3/Labrador.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example3/StartProgram.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example2/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example2/StartProgram.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example2/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/example3/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/example3/Labrador.java" />
+    <entry file="file://$PROJECT_DIR$/src/example3/StartProgram.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/example2/Duck.java" />
+    <entry file="file://$PROJECT_DIR$/src/example2/StartProgram.java" />
     <entry file="file://$PROJECT_DIR$/src/example1/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">

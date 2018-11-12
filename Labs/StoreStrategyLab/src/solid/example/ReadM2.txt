@@ -1,0 +1,1 @@
+Modify the Lab to implement the Strategy Pattern.

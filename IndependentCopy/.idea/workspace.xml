@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="655a723f-f6a8-45a4-ad13-a167d81d97aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/instructor/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/student/Workable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/LabDIP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/Startup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/HourlyPlusIncentiveEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/instructor/solution1/Startup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HRService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/HourlyPlusIncentiveEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/student/solution1/Startup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceDangers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceDangers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/out/production/ISPExample/isp/lab1/Workable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/ISPExample/src/isp/lab1/student/Workable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab1/HRService$WageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/LabDIP/out/production/LabDIP/dip/lab1/HRService$WageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/BaggageServiceTipCalculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/BaggageServiceTipCalculator$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/FoodServiceTipCalculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/FoodServiceTipCalculator$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/LabDIP/build/classes/dip/lab2/Startup$ServiceQuality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Labs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._Collection Work" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._Encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._FileIOAlgorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._FileIOAlgorithmControlBreak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._FileIOAlgorithmTwo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._InterfaceAbstractLab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/._LabDIP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._FileIOAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/._the_book.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/._production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/._FileIOAlgorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/FileIOAlgorithm/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/FileIOAlgorithm/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/FileIOAlgorithm/us/mattgreen/._FileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/FileIOAlgorithm/us/mattgreen/._FileOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/out/production/FileIOAlgorithm/us/mattgreen/._Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/mattgreen/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/mattgreen/._FileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/mattgreen/._FileOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Collection Work/src/us/mattgreen/._Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/ComposingPrivateRyan/src/composition/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._nbproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/._built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/._classes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/._empty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/._generated-sources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._clazz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._lab1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._lab3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._lab4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._method" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/._property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/._good" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/._poor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/good/._Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/good/._CarReportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/good/._ClassEncapsulationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/good/._Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/poor/._Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/poor/._Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/clazz/encapsulation/poor/._Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab1/._Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab2/._DateUtilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab2/._Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab3/._Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab3/._OutputService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/._Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/._EmployeeReportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/._Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/._solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/solution/._Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/solution/._Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/solution/._EmployeeReportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/solution/._HrPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/lab4/solution/._Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/._encap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/._demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/._good" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/._poor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/good/._Cake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/good/._MethodEncapsulationDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/good/._MethodEncapsulationDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/poor/._Cake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encap/demo/poor/._Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/method/encapsulation/._StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/property/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/classes/property/encapsulation/._Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/build/generated-sources/._ap-source-output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/._build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/._genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/._private" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/._project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/._project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/private/._config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/private/._private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/private/._private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/nbproject/private/._profiler" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._clazz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._lab1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._lab3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._lab4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._method" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/._property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/._good" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/._poor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/good/._Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/good/._CarReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/good/._ClassEncapsulationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/good/._Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/poor/._Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/poor/._Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/clazz/encapsulation/poor/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab1/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab2/._DateUtilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab2/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab3/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab3/._OutputService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/._EmployeeReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/._solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/solution/._Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/solution/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/solution/._EmployeeReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/solution/._HrPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/lab4/solution/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/._encap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/._demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/._good" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/._poor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/good/._Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/good/._MethodEncapsulationDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/good/._MethodEncapsulationDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/poor/._Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encap/demo/poor/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/method/encapsulation/._StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/property/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/property/._encapsulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/Encapsulation/src/property/encapsulation/._Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._FileIOAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._meals_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._movie_cards.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._movie_purchases.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/._production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/._FileIOAlgorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._FileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._FileOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._MealType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._Meals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/out/production/FileIOAlgorithm/us/mattgreen/._MealsArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._FileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._FileOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._MealType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._Meals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithm/src/us/mattgreen/._MealsArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._FileIOAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._Meals_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/._production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/._FileIOAlgorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/FileIOAlgorithm/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/FileIOAlgorithm/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/FileIOAlgorithm/us/mattgreen/._FileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/FileIOAlgorithm/us/mattgreen/._FileOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/out/production/FileIOAlgorithm/us/mattgreen/._Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/mattgreen/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/mattgreen/._FileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/mattgreen/._FileOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmControlBreak/src/us/mattgreen/._Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._FileIOAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._movie_cards.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._movie_purchases.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._movie_rating.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/._production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/._FileIOAlgorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/FileIOAlgorithm/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/FileIOAlgorithm/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/FileIOAlgorithm/us/mattgreen/._FileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/FileIOAlgorithm/us/mattgreen/._FileOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/out/production/FileIOAlgorithm/us/mattgreen/._Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/._us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/._mattgreen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/mattgreen/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/mattgreen/._FileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/mattgreen/._FileOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/FileIOAlgorithmTwo/src/us/mattgreen/._Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._nbproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/._build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/._genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/._private" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/._project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/._project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/private/._config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/private/._private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/nbproject/private/._private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/._lab1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/._lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab1/._AdvancedJavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab1/._IntroJavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab1/._IntroToProgrammingCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab1/._readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab2/._AdvancedJavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab2/._IntroJavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab2/._IntroToProgrammingCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/InterfaceAbstractLab/src/lab2/._readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/._build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/._manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/._nbproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._configs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._private" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/._project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/configs/._lab1.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/configs/._lab2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/private/._config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/private/._private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/nbproject/private/._private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/._dip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/._lab1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/._lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/._lab3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._HRService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._instructor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/._student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/._solution1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._HRService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._HourlyPlusIncentiveEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/instructor/solution1/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab1/student/._solution1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/._BaggageServiceTipCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/._FoodServiceTipCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/._README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/._Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/._student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab2/student/._solution1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab3/._README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab3/._student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/__MACOSX/LabDIP/src/dip/lab3/student/._solution1" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-152941997">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541446059561" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Labs/IndependentCopy" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Fall 2018\Advance Java\Labs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="655a723f-f6a8-45a4-ad13-a167d81d97aa" name="Default Changelist" comment="" />
+      <created>1541445861012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541445861012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
